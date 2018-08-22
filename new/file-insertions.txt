@@ -1,0 +1,7 @@
+into package.json:
+
+under scripts:
+    "test": "npm run test",
+    "start": "npm run serve"
+
+
